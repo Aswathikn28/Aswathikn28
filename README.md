@@ -1,5 +1,5 @@
 <!-- HEADER IMAGE -->
-![Professional AI & Data Science Banner](https://raw.githubusercontent.com/Aswathi/Aswathi/main/professional_banner.png)
+![Professional AI & Data Science Banner](https://github.com/Aswathikn28/Aswathikn28/blob/main/concept-ai-machine-learning-artificial-intelligence-robot-learning-network-system-advance-ai-on-blue-futuristic-modern-hi-tech-background-vector.jpg)
 
 # Aswathi | AI & Data Science Trainer
 
